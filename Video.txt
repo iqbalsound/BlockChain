@@ -1,0 +1,43 @@
+In this video we will see how BlockChain can be created and how it respond
+I have a text file with all HowTo
+
+Let us start Step by Step
+
+Our Goal is to write and and run a Simple blockChain using GoLang, I have already downloaded, extracted and added PATH in Profiles
+
+It shows GoLang is installed and working!!
+
+Now all required libs are downloaded in go directory in Home directory
+
+You may change port as per your need
+
+You can see that cood is running....
+
+Now we post some data.. using POSTMAN and CURL
+
+I have mentioned all in HowTo File
+
+You can see a minor mistake... and you will not able to POST data
+
+Now using POSTMAN
+
+All good also POST done by POSTMAN.... 
+
+Now we will run Task File...
+
+Now I will turn Main0 OFF
+
+Thanks God .. it was Copy Paste Error......
+
+Now let start GET and POST
+
+Oppsss Problem... I will post Part two of this video with Task....
+
+I was coping from Wrong File.. :-)
+
+
+Well I have started the task code
+
+See all Done Now alll this will be available on GIT Hub... See Ya!!!
+
+
