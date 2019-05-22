@@ -1,4 +1,4 @@
 # BlockChain
-Train Related Material - BlockChain
-clone all repo
+Training Related Material - BlockChain
+clone the repo
 Extarct all contents of zip file 
